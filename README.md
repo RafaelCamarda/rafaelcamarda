@@ -10,10 +10,10 @@ Sou Rafael Camarda, Desenvolvedor Backend com foco em Elixir. Essas são algumas
 Sou instrutuor na Udemy. Abaixo você pode conferir meus cursos:
 
 ### ☕ Entre em contato
-  <a href="https://in.linkedin.com/in/rafaelcamarda">
+  <a href="https://in.linkedin.com/in/rafaelcamarda" target="_blank">
     <img align="left" alt="Hargun | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
   </a>
-  <a href="https://twitter.com/rafacamarda">
+  <a href="https://twitter.com/rafacamarda" target="_blank">
     <img align="left" alt="Hargun | Twitter" width="26px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Twitter.svg" />
   </a>
   <a href="mailto:rf.camarda@gmail.com">
