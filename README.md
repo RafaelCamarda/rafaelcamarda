@@ -10,6 +10,10 @@ Sou instrutuor na Udemy. Abaixo você pode conferir meus cursos:
   <a href="https://www.udemy.com/course/elixir-e-phoenix-do-zero/?referralCode=61252D3D11DFC66B0263" target="_blank">
     <img alt="Curso Elixir e Phoenix do zero" width="240px" src="https://i.imgur.com/NSAJwqS.png" />
   </a>
+  
+  |Curso Elixir e Phoenix do zero|Curso Elixir e Phoenix do zero|
+|---------|---------|
+|<a href="https://www.udemy.com/course/elixir-e-phoenix-do-zero/?referralCode=61252D3D11DFC66B0263" target="_blank"><img width="240px" src="https://i.imgur.com/NSAJwqS.png" /></a>|<a href="https://www.udemy.com/course/elixir-e-phoenix-do-zero/?referralCode=61252D3D11DFC66B0263" target="_blank"><img width="240px" src="https://i.imgur.com/NSAJwqS.png" /></a>|
 
 ### ☕ Entre em contato
   <a href="https://in.linkedin.com/in/rafaelcamarda" target="_blank">
