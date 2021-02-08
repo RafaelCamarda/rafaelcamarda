@@ -3,13 +3,14 @@
 Sou Rafael Camarda, Desenvolvedor Backend com foco em Elixir. 🎹 🎸 Curto música, 🎮 videogames e paixão pelo ensino 📚.
 
 
+
 ### 👨‍💻 Cursos
 
-Sou instrutuor na Udemy. Abaixo você pode conferir meus cursos:
+Também sou instrutuor na Udemy. Abaixo você pode conferir meus cursos:
   
-|Curso Elixir e Phoenix do zero|Princípios SOLID na prática com Python|
-|---------|---------|
-|<a href="https://www.udemy.com/course/elixir-e-phoenix-do-zero/?referralCode=61252D3D11DFC66B0263" target="_blank"><img width="250px" src="https://i.imgur.com/NSAJwqS.png" /></a>|<a href="https://www.udemy.com/course/solid-na-pratica-com-python/?referralCode=6C92BC7D55D4F29D9453" target="_blank"><img width="250px" src="https://i.imgur.com/f1SVAAn.png" /></a>|
+|Princípios SOLID na prática com Python|
+|---------|
+|<a href="https://www.udemy.com/course/solid-na-pratica-com-python/?referralCode=6C92BC7D55D4F29D9453" target="_blank"><img width="250px" src="https://i.imgur.com/f1SVAAn.png" /></a>|
 
 ### ☕ Entre em contato
   <a href="https://in.linkedin.com/in/rafaelcamarda" target="_blank">
