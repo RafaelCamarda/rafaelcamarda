@@ -2,6 +2,8 @@
 
 Sou Rafael Camarda, Desenvolvedor Backend com foco em Elixir. 🎹 🎸 Curto música, 🎮 videogames e paixão pelo ensino 📚.
 
+Atualmente instrutor Elixir na @Rocketseat
+
 
 
 ### 👨‍💻 Cursos
