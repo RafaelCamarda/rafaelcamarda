@@ -6,6 +6,7 @@ Atualmente instrutor Elixir na @Rocketseat
 
 
 ### ☕ Entre em contato
+<div>
   <a href="https://in.linkedin.com/in/rafaelcamarda" target="_blank">
     <img align="left" alt="Rafael | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
   </a>
@@ -15,3 +16,4 @@ Atualmente instrutor Elixir na @Rocketseat
   <a href="mailto:rf.camarda@gmail.com">
     <img align="left" alt="Rafael | Gmail" width="26px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Gmail.svg" />
   </a>
+  <div>
