@@ -1,8 +1,8 @@
 ### Olá 👋
 
-Sou Rafael Camarda, Desenvolvedor Backend com foco em Elixir. 🎹 🎸 Curto música, 🎮 videogames e paixão pelo ensino 📚.
+Sou Rafael Camarda, Tech Manager, antes Desenvolvedor Backend com foco em Elixir. 🎹 🎸 Curto música, 🎮 videogames e paixão pelo ensino 📚.
 
-Atualmente instrutor Elixir na @Rocketseat
+Atualmente Tech Manager na @solfacil
 
 
 ### ☕ Entre em contato
