@@ -8,7 +8,7 @@ I value collaborative work environments, which form, which promote a good balanc
 
 
 
-### ☕ Be in touch
+### ☕   Be in touch
   <a href="https://in.linkedin.com/in/rafaelcamarda" target="_blank">
     <img align="left" alt="Rafael | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
   </a>
